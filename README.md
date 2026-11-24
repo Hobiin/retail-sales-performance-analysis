@@ -2,9 +2,9 @@
 
 # Retail Sales Performance & Profitability Analysis (2023–2026)
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Dashboard_Preview.jpeg)
 
-🔗 **Interactive Dashboard:** [Buka Dashboard di Google Looker Studio](Link_Dashboard_Looker_Studio_Kamu)
+🔗 **Interactive Dashboard:** [Buka Dashboard di Google Looker Studio]([Link_Dashboard_Looker_Studio_Kamu](https://datastudio.google.com/reporting/185e8aea-69d2-442f-a81f-552989b42328))
 
 ## 📌 Project Overview
 Analisis komprehensif terhadap **10.192 transaksi retail** (Sample Superstore) untuk mengevaluasi kinerja pendapatan, pertumbuhan musiman, profitabilitas lini produk, performa regional, serta dampak strategi diskon terhadap margin keuntungan bersih.
